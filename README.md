@@ -6,6 +6,7 @@ My LeetCode solutions, auto-synced by LeetHub
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev2180/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -40,5 +41,26 @@ My LeetCode solutions, auto-synced by LeetHub
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0507-perfect-number](https://github.com/dev2180/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
