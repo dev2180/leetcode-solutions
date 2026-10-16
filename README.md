@@ -37,4 +37,8 @@ My LeetCode solutions, auto-synced by LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/dev2180/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0507-perfect-number](https://github.com/dev2180/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
 <!---LeetCode Topics End-->
