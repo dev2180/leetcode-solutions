@@ -9,6 +9,7 @@ My LeetCode solutions, auto-synced by LeetHub
 | [0018-4sum](https://github.com/dev2180/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev2180/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/dev2180/leetcode-solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
