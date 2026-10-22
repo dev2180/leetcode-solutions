@@ -10,6 +10,7 @@ My LeetCode solutions, auto-synced by LeetHub
 | [0066-plus-one](https://github.com/dev2180/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dev2180/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/dev2180/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev2180/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/dev2180/leetcode-solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
@@ -81,4 +82,8 @@ My LeetCode solutions, auto-synced by LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/dev2180/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/dev2180/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
