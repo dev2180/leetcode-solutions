@@ -6,6 +6,7 @@ My LeetCode solutions, auto-synced by LeetHub
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/dev2180/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev2180/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Hash Table
@@ -35,6 +36,7 @@ My LeetCode solutions, auto-synced by LeetHub
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/dev2180/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/dev2180/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dev2180/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -70,4 +72,8 @@ My LeetCode solutions, auto-synced by LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/dev2180/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0018-4sum](https://github.com/dev2180/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 <!---LeetCode Topics End-->
