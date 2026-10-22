@@ -7,6 +7,7 @@ My LeetCode solutions, auto-synced by LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/dev2180/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0066-plus-one](https://github.com/dev2180/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dev2180/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev2180/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -49,6 +50,7 @@ My LeetCode solutions, auto-synced by LeetHub
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/dev2180/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0507-perfect-number](https://github.com/dev2180/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
 ## Enumeration
