@@ -13,6 +13,7 @@ My LeetCode solutions, auto-synced by LeetHub
 | [0238-product-of-array-except-self](https://github.com/dev2180/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dev2180/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev2180/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/dev2180/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/dev2180/leetcode-solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -89,4 +90,8 @@ My LeetCode solutions, auto-synced by LeetHub
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/dev2180/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dev2180/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/dev2180/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 <!---LeetCode Topics End-->
