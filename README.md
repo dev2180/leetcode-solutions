@@ -57,6 +57,7 @@ My LeetCode solutions, auto-synced by LeetHub
 | [0066-plus-one](https://github.com/dev2180/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0507-perfect-number](https://github.com/dev2180/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
+| [2409-count-days-spent-together](https://github.com/dev2180/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +95,8 @@ My LeetCode solutions, auto-synced by LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dev2180/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2409-count-days-spent-together](https://github.com/dev2180/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 <!---LeetCode Topics End-->
