@@ -12,6 +12,7 @@ My LeetCode solutions, auto-synced by LeetHub
 | [0204-count-primes](https://github.com/dev2180/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/dev2180/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dev2180/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/dev2180/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dev2180/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dev2180/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/dev2180/leetcode-solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -99,4 +100,8 @@ My LeetCode solutions, auto-synced by LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2409-count-days-spent-together](https://github.com/dev2180/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/dev2180/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
